@@ -1,4 +1,5 @@
 # ascii-table
-Display a table of all characters with their numeric values
+for the Colour Maximite 2
 
-A program for the CMM2
+Two variants to display the characters with their numeric values.
+Screens will be saved as graphic files.
